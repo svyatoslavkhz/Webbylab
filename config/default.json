@@ -1,0 +1,4 @@
+{
+    "PORT": 4000,
+    "mongoUri": "mongodb+srv://<USER>:<PASSWORD>@cluster0.8ogzp.mongodb.net/video?retryWrites=true&w=majority"
+}
