@@ -1,0 +1,54 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.mainMovies {
+}
+
+.mainMovies .card {
+    margin: 2px;
+    border-radius: 3px;
+    float: left;
+    width: 32.6%;
+}
+
+.title h1 {
+    float: left;
+}
+.title .input-field {
+    float: right;
+}
+
+.title button {
+    float: right;
+}
+
+.card .card-content {
+    height: 180px;
+}
+
+.imageMovie {
+    width: 250px;
+    height: 330px;
+    float: left;
+    margin: 0 20px 20px 0;
+    border-radius: 4px;
+    background: #E0EAFC;
+    background: -webkit-linear-gradient(to bottom, #CFDEF3, #E0EAFC);
+    background: linear-gradient(to bottom, #CFDEF3, #E0EAFC);
+}
+
+.moviePage h1{
+    font-size: 3rem;
+    text-shadow: #d0def3 2px 2px 2px;
+}
+
+button.btn-edit{
+    float: right;
+}
+
+.btn-adm {
+    float: right;
+    width: 137px;
+}
+.btn-delete {
+    margin: 2rem 0;
+}
